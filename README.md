@@ -48,6 +48,15 @@ copy origen objetivo
 ```
 cp origen objetivo
 ```
+Mostrar el contenido por la terminal
+```
+type archivo
+```
+```
+cat archivo
+```
+
+
 
 ## Comandos de git
 La version
