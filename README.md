@@ -55,7 +55,7 @@ type archivo
 ```
 cat archivo
 ```
-
+echo exit ping ipconfig clear
 
 
 ## Comandos de git
