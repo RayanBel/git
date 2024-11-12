@@ -21,6 +21,9 @@ cd dirección
 ```
 Crear carpetas
 ```
+md nombreCarpeta
+```
+```
 mkdir nombreCarpeta
 ```
 Borrar carpetas
@@ -33,7 +36,17 @@ touch nombre
 ```
 Borrar archivo 
 ```
+del nombre
+```
+```
 rm nombre
+```
+Copiar archivo/Carpeta
+```
+copy origen objetivo
+```
+```
+cp origen objetivo
 ```
 
 ## Comandos de git
