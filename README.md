@@ -10,9 +10,6 @@
 ## Comandos basicos de terminal
 Mostrar archivos y carpetas (windows y linux respectivamente)
 ```
-dir
-```
-```
 ls
 ```
 Cambiar de carpeta
@@ -20,9 +17,6 @@ Cambiar de carpeta
 cd dirección
 ```
 Crear carpetas
-```
-md nombreCarpeta
-```
 ```
 mkdir nombreCarpeta
 ```
@@ -34,29 +28,35 @@ Crear un archivo
 ```
 touch nombre
 ```
+```
+new-item nombre
+```
 Borrar archivo 
-```
-del nombre
-```
 ```
 rm nombre
 ```
 Copiar archivo/Carpeta
 ```
-copy origen objetivo
-```
-```
 cp origen objetivo
 ```
 Mostrar el contenido por la terminal
 ```
-type archivo
-```
-```
 cat archivo
 ```
-echo exit ping ipconfig clear
-
+Mostrar algo por pantalla
+```
+echo lo que quieres mostrar
+```
+Borrar la pantalla
+```
+clear
+```
+Salir de la terminal
+```
+exit
+```
+Comprobar la conexion de un
+ping ipconfig
 
 ## Comandos de git
 La version
