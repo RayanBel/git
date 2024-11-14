@@ -8,7 +8,7 @@
 [Documentación](https://git-scm.com/book/en/v2)
 
 ## Comandos basicos de terminal
-Mostrar archivos y carpetas (windows y linux respectivamente)
+Mostrar archivos y carpetas
 ```
 ls
 ```
