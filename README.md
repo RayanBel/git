@@ -8,6 +8,9 @@
 [Documentación](https://git-scm.com/book/en/v2)
 
 ## Comandos basicos de terminal
+
+Terminal explicación (powershell)
+
 Mostrar archivos y carpetas
 ```
 ls
